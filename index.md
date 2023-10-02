@@ -8,7 +8,7 @@ classes: wide
 #   image: /assets/images/unsplash-image-4.jpg
 ---
 
-I'm a junior majoring in computer science and mathematics at University of Southern California. I'm currently a research assistant at IDM Lab. I'm also very interested in algorithms and theory of computation.
+I'm a senior majoring in computer science and mathematics at University of Southern California. I'm currently a research assistant at IDM Lab. I'm also very interested in algorithms and theory of computation.
 
 ## News
 
@@ -30,6 +30,7 @@ I'm a research assistant at IDM Lab. My research focuses on Multi-Agent Path Fin
 
 ## Teaching experience
 
+- Fall 2023: Course Producer for _CSCI 270: Introduction to Algorithms and Theory of Computing_ with Prof. Aaron Cote
 - Spring 2023: Grader for _CSCI 170: Discrete Methods in Computer Science_ with Prof. Aaron Cote
 - Fall 2022: Course Producer for _CSCI 270: Introduction to Algorithms and Theory of Computing_ with Prof. David Kempe
 - Spring 2022: Course Producer for _CSCI 104: Data Structures and Object Oriented Design_ with Prof. Mark Redekopp
@@ -39,10 +40,10 @@ I'm a research assistant at IDM Lab. My research focuses on Multi-Agent Path Fin
 
 - **Center for Undergraduate Research in Viterbi Engineering (CURVE) Fellowship**
 - **Summer 2022 Provost's Research Fellowship**
-- Dean's list from Fall 2020 to Spring 2022
+- Dean's list from Fall 2020 to Spring 2023
 
 ## Skills
 
 - C++, C, Java, Python, JavaScript, Android
-- React, Node.js, Spring Boot, MySQL
+- AWS, React, Node.js, Spring Boot, MySQL
 - Linux, Git, Latex, Google Cloud
