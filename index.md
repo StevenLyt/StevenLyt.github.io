@@ -8,7 +8,7 @@ classes: wide
 #   image: /assets/images/unsplash-image-4.jpg
 ---
 
-I'm a senior majoring in computer science and mathematics at University of Southern California. I'm currently a research assistant at IDM Lab. I'm also very interested in algorithms and theory of computation.
+I'm a senior majoring in computer science and mathematics at University of Southern California. I'm currently a research assistant at IDM Lab doing research on Multi-Agent Path Finding. I'm also very interested in algorithms and theory of computation.
 
 ## News
 
