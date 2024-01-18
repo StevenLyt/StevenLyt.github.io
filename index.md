@@ -13,7 +13,7 @@ I'm a senior majoring in computer science and mathematics at University of South
 ## News
 
 - I'm happy to announce that I'll be joining Amazon as an SDE intern in Summer 2023!
-- First version of MAPF Visualizer is live! Visit [here](http://mapf-visualizer.com).
+- First version of MAPF Visualizer is live! Visit [here](https://mapf-visualizer.com).
 - Personal website goes live!
 - Our paper _Mutex Propagation in Multi-Agent Path Finding for Large Agents_ was accepted to [SoCS 22](https://ojs.aaai.org/index.php/SOCS/article/view/21776).
 - Received _Summer 2022 Provost's Research Fellowship_ from USC.
@@ -30,6 +30,7 @@ I'm a research assistant at IDM Lab. My research focuses on Multi-Agent Path Fin
 
 ## Teaching experience
 
+- Spring 2024: Course Producer for _CSCI 270: Introduction to Algorithms and Theory of Computing_ with Prof. David Kempe
 - Fall 2023: Course Producer for _CSCI 270: Introduction to Algorithms and Theory of Computing_ with Prof. Aaron Cote
 - Spring 2023: Grader for _CSCI 170: Discrete Methods in Computer Science_ with Prof. Aaron Cote
 - Fall 2022: Course Producer for _CSCI 270: Introduction to Algorithms and Theory of Computing_ with Prof. David Kempe
