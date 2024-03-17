@@ -4,14 +4,13 @@ permalink: /
 layout: single
 author_profile: true
 classes: wide
-# header:
-#   image: /assets/images/unsplash-image-4.jpg
 ---
 
 I'm a senior majoring in computer science and mathematics at University of Southern California. I'm currently a research assistant at IDM Lab doing research on Multi-Agent Path Finding. I'm also very interested in algorithms and theory of computation.
 
 ## News
 
+- I'll join UPenn's GRASP Lab as a Robotics Master’s Student!
 - I'm happy to announce that I'll be joining Amazon as an SDE intern in Summer 2023!
 - First version of MAPF Visualizer is live! Visit [here](https://mapf-visualizer.com).
 - Personal website goes live!
