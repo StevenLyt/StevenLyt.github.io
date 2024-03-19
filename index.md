@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-I'm a senior student majoring in computer science and mathematics at the University of Southern California. I was a research assistant at IDM Lab doing research on Multi-Agent Path Finding. I'm also broadly interested in software engineering and interned at Amazon's [BuyW ith Prime](https://buywithprime.amazon.com/) team. I'm also very interested in algorithms and theory of computation.
+I'm a senior student majoring in computer science and mathematics at the University of Southern California. I was a research assistant at IDM Lab doing research on Multi-Agent Path Finding. I'm also broadly interested in software engineering and interned at Amazon's [Buy With Prime](https://buywithprime.amazon.com/) team. I'm also very interested in algorithms and theory of computation.
 
 ## News
 
