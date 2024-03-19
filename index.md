@@ -6,11 +6,11 @@ author_profile: true
 classes: wide
 ---
 
-I'm a senior majoring in computer science and mathematics at University of Southern California. I'm currently a research assistant at IDM Lab doing research on Multi-Agent Path Finding. I'm also very interested in algorithms and theory of computation.
+I'm a senior student majoring in computer science and mathematics at the University of Southern California. I was a research assistant at IDM Lab doing research on Multi-Agent Path Finding. I'm also broadly interested in software engineering and interned at Amazon's [BuyWithPrime](https://buywithprime.amazon.com/) team. I'm also very interested in algorithms and theory of computation.
 
 ## News
 
-- I'll join UPenn's GRASP Lab as a Robotics Master’s Student!
+- Thrilled to join UPenn's GRASP Lab as a Robotics Master’s Student!
 - I'm happy to announce that I'll be joining Amazon as an SDE intern in Summer 2023!
 - First version of MAPF Visualizer is live! Visit [here](https://mapf-visualizer.com).
 - Personal website goes live!
@@ -19,13 +19,13 @@ I'm a senior majoring in computer science and mathematics at University of South
 
 ## Research
 
-I'm a research assistant at IDM Lab. My research focuses on Multi-Agent Path Finding (MAPF), particularly symmetry reasoning techniques targeted at several MAPF variants (Large Agent MAPF and k-robust). For more info, please refer to the [Research section](research).
+My research focuses on Multi-Agent Path Finding (MAPF), particularly symmetry reasoning techniques targeted at several MAPF variants (Large Agent MAPF and k-robust). For more info, please refer to the [Research section](research).
 
 ## Publications
 
 **Mutex Propagation in Multi-Agent Path Finding for Large Agents** \
  Han Zhang, Yutong Li, Jiaoyang Li, T. K. Satish Kumar and Sven Koenig \
- _The 15th Annual Symposium on Combinatorial Search (**SoCS 2022**), in print_
+ _The 15th Annual Symposium on Combinatorial Search (**SoCS 2022**)_
 
 ## Teaching experience
 
@@ -40,10 +40,10 @@ I'm a research assistant at IDM Lab. My research focuses on Multi-Agent Path Fin
 
 - **Center for Undergraduate Research in Viterbi Engineering (CURVE) Fellowship**
 - **Summer 2022 Provost's Research Fellowship**
-- Dean's list from Fall 2020 to Spring 2023
+- Dean's list from Fall 2020 to Fall 2023
 
 ## Skills
 
 - C++, C, Java, Python, JavaScript, Android
-- AWS, React, Node.js, Spring Boot, MySQL
-- Linux, Git, Latex, Google Cloud
+- AWS, React, Node.js, Spring Boot, MySQL, Google Cloud
+- Linux, Git, Latex
