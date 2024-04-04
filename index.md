@@ -10,40 +10,63 @@ I'm a senior student majoring in computer science and mathematics at the Univers
 
 ## News
 
-- Thrilled to be joining UPenn's GRASP Lab as a Robotics Master’s Student!
-- I'm happy to announce that I'll be joining Amazon as an SDE intern in Summer 2023!
-- First version of MAPF Visualizer is live! Visit [here](https://mapf-visualizer.com).
-- Personal website goes live!
-- Our paper _Mutex Propagation in Multi-Agent Path Finding for Large Agents_ was accepted to [SoCS 22](https://ojs.aaai.org/index.php/SOCS/article/view/21776).
-- Received _Summer 2022 Provost's Research Fellowship_ from USC.
+- [24/04] Thrilled to be joining DoorDash as a Software Engineer!
+- [24/03] Thrilled to receive a Robotics Master’s offer from UPenn!
+- [23/09] I'm happy to announce that I'll be joining Amazon as an SDE intern!
+- [22/06] First version of MAPF Visualizer is live! Visit [here](https://mapf-visualizer.com).
+- [22/04] Personal website goes live!
+- [22/04] Our paper _Mutex Propagation in Multi-Agent Path Finding for Large Agents_ was accepted to [SoCS 22](https://ojs.aaai.org/index.php/SOCS/article/view/21776).
+- [22/04] Received _Summer 2022 Provost's Research Fellowship_ from USC.
 
-## Research
+## Work experience
 
-My research focuses on Multi-Agent Path Finding (MAPF), particularly symmetry reasoning techniques targeted at several MAPF variants (Large Agent MAPF and k-robust). For more info, please refer to the [Research section](research).
+<!-- **Software Engineer | DoorDash** \\
+June 2024 -
 
-## Publications
+**_Software Development Engineer Intern @ Amazon_**\\
+May 2023 - Aug 2023
 
-**Mutex Propagation in Multi-Agent Path Finding for Large Agents** \
- Han Zhang, Yutong Li, Jiaoyang Li, T. K. Satish Kumar and Sven Koenig \
- _The 15th Annual Symposium on Combinatorial Search (**SoCS 2022**)_
+**_Software Engineer Intern @ 360 DigiTech_** \\
+May 2021 - Aug 2021 -->
+
+**Software Engineer | DoorDash** \\
+_Los Angeles, CA_\\
+_June 2024 -_
+
+**Software Dev Engineer Intern | Amazon**\\
+_Seattle, WA_  
+_May 2023 - August 2023_
+
+_Work in BuyWithPrime’s data privacy and governance team._
+
+**Software Engineer Intern | 360 DigiTech**\\
+_Shenzhen, China_  
+_May 2021 - August 2021_
 
 ## Teaching experience
 
-- Spring 2024: Course Producer for _CSCI 270: Introduction to Algorithms and Theory of Computing_ with Prof. David Kempe
+<!-- - Spring 2024: Course Producer for _CSCI 270: Introduction to Algorithms and Theory of Computing_ with Prof. David Kempe
 - Fall 2023: Course Producer for _CSCI 270: Introduction to Algorithms and Theory of Computing_ with Prof. Aaron Cote
 - Spring 2023: Grader for _CSCI 170: Discrete Methods in Computer Science_ with Prof. Aaron Cote
 - Fall 2022: Course Producer for _CSCI 270: Introduction to Algorithms and Theory of Computing_ with Prof. David Kempe
 - Spring 2022: Course Producer for _CSCI 104: Data Structures and Object Oriented Design_ with Prof. Mark Redekopp
-- Fall 2021: Course Producer for _CSCI 104: Data Structures and Object Oriented Design_ with Prof. Aaron Cote
+- Fall 2021: Course Producer for _CSCI 104: Data Structures and Object Oriented Design_ with Prof. Aaron Cote -->
+
+Course Producer (Undergraduate TA) from Fall 2021 to Spring 2024 for the following courses:
+
+- _CSCI 270: Introduction to Algorithms and Theory of Computing_
+- _CSCI 170: Discrete Methods in Computer Science_
+- _CSCI 104: Data Structures and Object Oriented Design_
 
 ## Honors and Awards
 
 - **Center for Undergraduate Research in Viterbi Engineering (CURVE) Fellowship**
 - **Summer 2022 Provost's Research Fellowship**
-- Dean's list from Fall 2020 to Fall 2023
+- Academic Achievement Award
+- Dean's list from Fall 2020 to Spring 2024
 
-## Skills
+<!-- ## Skills
 
 - C++, C, Java, Python, JavaScript, Android
 - AWS, React, Node.js, Spring Boot, MySQL, Google Cloud
-- Linux, Git, Latex
+- Linux, Git, Latex -->
