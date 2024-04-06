@@ -12,11 +12,16 @@ I'm a senior student majoring in computer science and mathematics at the Univers
 
 - [24/04] Thrilled to be joining DoorDash as a Software Engineer!
 - [24/03] Thrilled to receive a Robotics Master’s offer from UPenn!
-- [23/09] I'm happy to announce that I'll be joining Amazon as an SDE intern!
-- [22/06] First version of MAPF Visualizer is live! Visit [here](https://mapf-visualizer.com).
-- [22/04] Personal website goes live!
-- [22/04] Our paper _Mutex Propagation in Multi-Agent Path Finding for Large Agents_ was accepted to [SoCS 22](https://ojs.aaai.org/index.php/SOCS/article/view/21776).
-- [22/04] Received _Summer 2022 Provost's Research Fellowship_ from USC.
+- [22/09] I'm happy to announce that I'll be joining Amazon as an SDE intern!
+ <details>
+  <summary style="text-indent: 1em">More</summary>
+  <ul>
+    <li>[22/06] First version of MAPF Visualizer is live! Visit <a href="https://mapf-visualizer.com">here</a>.</li>
+    <li>[22/05] Personal website goes live!</li>
+    <li>[22/04] Our paper <i>Mutex Propagation in Multi-Agent Path Finding for Large Agents</i>was accepted to <a href="https://ojs.aaai.org/index.php/SOCS/article/view/21776">SOCS 2022</a>.</li>
+    <li>[22/04] Received <i>Summer 2022 Provost's Research Fellowship</i> from USC.</li>
+  </ul>
+</details>
 
 ## Work experience
 
@@ -60,8 +65,8 @@ Course Producer (Undergraduate TA) from Fall 2021 to Spring 2024 for the followi
 
 ## Honors and Awards
 
-- **Center for Undergraduate Research in Viterbi Engineering (CURVE) Fellowship**
-- **Summer 2022 Provost's Research Fellowship**
+- Center for Undergraduate Research in Viterbi Engineering (CURVE) Fellowship
+- Summer 2022 Provost's Research Fellowship
 - Academic Achievement Award
 - Dean's list from Fall 2020 to Spring 2024
 

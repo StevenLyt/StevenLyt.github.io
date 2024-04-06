@@ -104,6 +104,7 @@ analytics:
 author:
   name             : "Yutong Li"
   avatar           : "/assets/images/avatar.png"
+  # ncoming SWE @ DoorDash <br> 
   bio              : "CS & Math @ USC"
   location         : "Los Angeles"
   email            : "yli81711@usc.edu"
