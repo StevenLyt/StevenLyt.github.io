@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-I'm a senior student majoring in computer science and mathematics at the University of Southern California. I was a research assistant at IDM Lab doing research on Multi-Agent Path Finding. I'm also broadly interested in software engineering and interned at Amazon's [Buy With Prime](https://buywithprime.amazon.com/) team. I'm also very interested in algorithms and theory of computation.
+I'm an incoming SWE at DoorDash. I graduated from University of Southern California double majoring in computer science and mathematics. I was a research assistant at IDM Lab doing research on Multi-Agent Path Finding. I’m the creator of mapf-visualizer.com.I'm also broadly interested in software engineering and full stack development. Outside of work, I’m a huge fan of algorithms and theoretical computer science.
 
 ## News
 
@@ -25,24 +25,17 @@ I'm a senior student majoring in computer science and mathematics at the Univers
 
 ## Work experience
 
-<!-- **Software Engineer | DoorDash** \\
-June 2024 -
-
-**_Software Development Engineer Intern @ Amazon_**\\
-May 2023 - Aug 2023
-
-**_Software Engineer Intern @ 360 DigiTech_** \\
-May 2021 - Aug 2021 -->
-
 **Software Engineer | DoorDash** \\
 _Los Angeles, CA_\\
 _June 2024 -_
+
+_Money Platform_
 
 **Software Dev Engineer Intern | Amazon**\\
 _Seattle, WA_  
 _May 2023 - August 2023_
 
-_Work in BuyWithPrime’s data privacy and governance team._
+_BuyWithPrime’s data privacy and governance team._
 
 **Software Engineer Intern | 360 DigiTech**\\
 _Shenzhen, China_  
@@ -65,6 +58,7 @@ Course Producer (Undergraduate TA) from Fall 2021 to Spring 2024 for the followi
 
 ## Honors and Awards
 
+- Graduated from USC with summa cum laude
 - Center for Undergraduate Research in Viterbi Engineering (CURVE) Fellowship
 - Summer 2022 Provost's Research Fellowship
 - Academic Achievement Award
