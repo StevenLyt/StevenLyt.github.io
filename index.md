@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-I'm an incoming SWE at DoorDash. I graduated from University of Southern California double majoring in computer science and mathematics. I was a research assistant at IDM Lab doing research on Multi-Agent Path Finding. I’m the creator of [mapf-visualizer.com](http://mapf-visualizer.com/). I'm also broadly interested in software engineering and full stack development. Outside of work, I’m a huge fan of algorithms and theoretical computer science.
+I'm a Software Engineer at DoorDash. I graduated from University of Southern California double majoring in computer science and mathematics. I was a research assistant at IDM Lab doing research on Multi-Agent Path Finding. I’m the creator of [mapf-visualizer.com](http://mapf-visualizer.com/). I'm also broadly interested in software engineering and full stack development. Outside of work, I’m a huge fan of algorithms and theoretical computer science.
 
 ## News
 
